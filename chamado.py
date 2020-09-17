@@ -35,5 +35,7 @@ dadoschamado.append(hj)
 
 abrechamado.writelines(dadoschamado)
 
+abrechamado.close()
+
 
 
